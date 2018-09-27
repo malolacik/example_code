@@ -1,0 +1,80 @@
+@media only screen and (max-width: 1420px) {
+    .main-container__child {
+        width: 1200px;
+        padding: 0 15px;
+    }
+
+    .aside{
+        width: 250px;
+    }
+
+    .input__search{
+        width: 202px;
+    }
+
+    .categories__list li h2 a{
+        width: 180px;
+    }
+
+    .container__videos,
+    .container__more-videos,
+    .category__title{
+        width: 900px;
+    }
+
+    .container__more-videos--width,
+    .container__more-videos--width img{
+        width: 280px;
+    }
+
+    .container__videos--content{
+        height: 498px;
+    }
+
+    .choose__plan,
+    .partners__container{
+        padding: 20px 0;
+    }
+
+
+    .live-events__one{
+        width: 326px;
+        margin-right: 96px;
+        margin-bottom: 15px;
+    }
+
+    .live-event__player{
+        width: 800px;
+        height: 450px;
+    }
+
+    .chat__messages{
+        height: 370px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,281 @@
+@media only screen and (max-width: 690px) {
+    .main-container__child {
+        width: 650px;
+        padding: 0 15px;
+    }
+
+    .choose__plan, .partners__container {
+        padding: 20px 0;
+    }
+
+    .main-container__child {
+        width: 100%;
+    }
+
+    .navigation__body {
+        justify-content: center;
+    }
+
+    .navigation__body--links {
+        flex-direction: column;
+    }
+
+    .navigation__body--logo {
+        display: none;
+    }
+
+    .navigation__body--links {
+        padding-bottom: 5px;
+    }
+
+    .logo-xs {
+        display: block;
+    }
+
+    .flags__content--xl {
+        display: none;
+    }
+
+    .flags__content--xs {
+        display: flex;
+    }
+
+    .sign-in__form--content .input__basic {
+        width: auto;
+    }
+
+    .small-nav__register-lang {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: auto;
+    }
+
+    .sign-in__social-media {
+        border-radius: 6px;
+        order: 1;
+    }
+
+    .sign-up__content {
+        border-radius: 6px;
+        order: 3;
+    }
+
+    .flags__content--xs {
+        border-radius: 6px;
+        order: 2;
+    }
+
+    .flex-xs__register-lang {
+        width: 100%;
+        justify-content: space-between;
+        margin-left: 20px;
+    }
+
+    .main-container__child {
+        width: 100%;
+        border-radius: 0;
+    }
+
+    .navigation__body--content {
+        display: flex;
+        justify-content: flex-end;
+        padding: 0;
+    }
+
+    .menu__body {
+        display: none;
+        /*flex: 0 0 100%;*/
+    }
+
+    .menu__body--show {
+        width: 100%;
+        display: block;
+    }
+
+    .menu__body li {
+        width: 100%;
+    }
+
+    .nav__bar {
+        padding: 5px 0;
+        display: block;
+        font-size: 30px;
+        cursor: pointer;
+    }
+
+    .navbar__btn {
+        display: flex;
+        justify-content: center;
+        padding-top: 10px;
+        width: 55px;
+    }
+
+    .menu_bg {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .flex-xs__register-lang {
+        position: relative;
+    }
+
+    .user-nav {
+        position: absolute;
+        right: 0;
+    }
+
+    .navigation__100-xs {
+        width: 100%;
+    }
+
+    .menu__body li:first-child {
+        border-bottom-left-radius: 0;
+    }
+
+    .menu__body li:last-child {
+        border-bottom-left-radius: 4px;
+    }
+
+    .categories__list li h2 a {
+        width: 50vw;
+    }
+
+    .sign-in__form {
+        padding: 0;
+    }
+
+    .container__videos--content {
+        height: 52vw;
+    }
+
+    .error__container {
+        width: 340px;
+        margin-bottom: 20px;
+    }
+
+    .video-thumb__container--block {
+        min-width: 400px;
+        min-height: 200px;
+    }
+
+    .block_login {
+        padding: 0;
+        min-width: 150px;
+        min-height: 50px;
+    }
+
+    .live-events-list__container {
+        justify-content: space-between;
+    }
+
+    .live-events__one {
+        width: 40vw;
+        margin-right: 0;
+    }
+
+    .live-event__player {
+        height: 52vw;
+    }
+
+    .background-for-text {
+        min-height: 52vw;
+        height: auto;
+    }
+
+    .contact__content{
+        flex-direction: column;
+    }
+
+    .contact__content--input{
+        height: 180px;
+        margin-top: 10px;
+        margin-left: 0;
+        align-items: center;
+    }
+
+    .contact__content--input input{
+        width: 100%;
+    }
+
+
+    .history__table tr td:last-child{
+        display: none;
+    }
+
+    .history__table-title{
+        max-width: 265px;
+    }
+
+    .history-arc__table-title{
+        max-width: 265px;
+    }
+
+    .history-arc__table tr td:last-child{
+        display: none;
+    }
+
+    .pop_up--buy_event--container{
+        width: 300px;
+    }
+
+    .buy-event__buttons{
+        flex-direction: column;
+    }
+
+    .but_btn__container{
+        align-items: center;
+        margin-bottom: 20px;
+    }
+
+    .arc-margin_without_img{
+        margin-top: 0;
+    }
+
+    .container__text-button{
+        flex-direction: column;
+    }
+
+    .premium_category--text{
+        max-width: 100%;
+    }
+
+    .container__premium-category-div{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

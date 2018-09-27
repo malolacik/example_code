@@ -1,0 +1,74 @@
+@media only screen and (max-width: 1000px) {
+    .main-container__child {
+        width: 870px;
+        padding: 0 15px;
+    }
+
+    .choose__plan,
+    .partners__container{
+        padding: 20px 0;
+    }
+
+    .container__videos,
+    .container__more-videos,
+    .category__title{
+        width: 620px;
+    }
+
+    .container__more-videos--width,
+    .container__more-videos--width img{
+        width: 195px;
+        margin-bottom: 12px;
+    }
+
+    .more-videos__info-likes{
+        margin-left: 4px;
+    }
+
+    .more-videos__info-view{
+        margin-right: 4px;
+    }
+
+    .container__videos--content{
+        height: 340px;
+    }
+
+    .live-events__one{
+        width: 250px;
+        margin-right: 45px;
+        margin-bottom: 15px;
+    }
+
+    .live-event__player {
+        width: 535px;
+        height: 300px;
+    }
+
+    .live-event__chat {
+        width: 290px;
+    }
+
+    .chat__messages{
+        height: 220px;
+    }
+
+    .promo-code__btn-container{
+        width: 100%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

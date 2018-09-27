@@ -1,0 +1,218 @@
+@media only screen and (max-width: 880px) {
+    .main-container__child {
+        width: 680px;
+        padding: 0 15px;
+    }
+
+    .choose__plan,
+    .partners__container{
+        padding: 20px 0;
+    }
+
+    .sign-in__form--content .input__basic {
+        width: 100px;
+    }
+
+    .content__flex{
+        flex-direction: column;
+    }
+
+    .aside{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        align-self: center;
+    }
+
+    .input__search,
+    .aside__block .button__login,
+    .aside__block .categories__list,
+    .aside__block .input__select
+    {
+        display: none;
+    }
+
+    .aside__block--xs{
+        display: none;
+        cursor: pointer;
+    }
+
+    .aside__block h3{
+        text-align: center;
+        padding: 14px 0;
+    }
+
+    .input__search{
+        margin-bottom: 14px;
+    }
+
+    .show__menu--btn{
+        display: block;
+        padding: 14px 8px;
+        box-sizing: border-box;
+        border-radius: 4px;
+        margin-bottom: 14px;
+        background-color: #f3f3f3;
+        text-align: center;
+        cursor: pointer;
+        font-weight: bold;
+        border: none;
+        outline: 0;
+    }
+
+    .aside__block{
+        padding: 0 8px;
+    }
+
+    .aside__block h3 i{
+        display: inline;
+    }
+
+    .show_block_xs{
+        display: block;
+    }
+
+    .show__menu--btn-hide{
+        display: none;
+    }
+
+    .aside__block .show_category_xs{
+        display: block;
+    }
+
+    .search__content{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .search__content--flex{
+        display: flex;
+    }
+
+    .search__content--flex h3{
+        width: 100%;
+    }
+
+    .search__content--flex input{
+        margin-right: 5px;
+    }
+
+    .categories__list li h2 a{
+        width: 450px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        line-height: normal;
+    }
+
+    .container__videos,
+    .container__more-videos{
+        width: 100%;
+        padding: 0;
+    }
+
+    .container__videos{
+        padding: 0;
+    }
+
+    .container__videos--content{
+        height: 365px;
+    }
+
+    .choose__plan--content{
+        flex-wrap: wrap;
+    }
+
+    .plan__content{
+        margin-bottom: 20px;
+    }
+
+    .partners__container--content a{
+        margin-bottom: 5px;
+    }
+
+    .category__show-more--btn{
+        display: block;
+        margin-bottom: 14px;
+    }
+
+    .aside__block--xs .input__select{
+        margin-bottom: 14px;
+    }
+
+    .category__title{
+        padding-left: 0;
+        width: 100%;
+    }
+
+    .live-events__one{
+        width: 210px;
+        margin-right: 6px;
+        margin-bottom: 15px;
+    }
+
+    .live-event__with-chat{
+        flex-direction: column;
+    }
+
+    .live-event__player{
+        width: 100%;
+        height: 364px;
+        margin-bottom: 10px;
+    }
+
+    .live-event__chat{
+        width: 100%;
+        height: 400px;
+    }
+
+    .live-event__information .xs__line {
+        display: block;
+    }
+
+    .hide-chat__btn{
+        display: block;
+        margin-top: 10px;
+        text-align: center;
+        background-color: #f3f3f3;
+        border-radius: 4px;
+        box-sizing: border-box;
+
+        padding: 14px 8px;
+
+        cursor: pointer;
+        font-weight: bold;
+        border: none;
+        outline: 0;
+    }
+
+    .chat-hidden{
+        display: none;
+    }
+
+    .buy_now_guess--xs{
+        display: inline-block;
+        margin-top: 10px;
+    }
+
+    .advert_banner__xl{
+        display: none;
+    }
+
+    .advert_banner__sm{
+        display: block;
+    }
+
+    .container__text-button{
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+
+
+
+
+
+
+
+}

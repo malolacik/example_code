@@ -1,0 +1,28 @@
+/* purple color css */
+
+a,a:focus,a:hover,#mainNav .navbar-nav > li > a:hover,#mainNav .navbar-nav > li > a:focus:hover,#mainNav.navbar-shrink .navbar-brand:hover,
+#mainNav.navbar-shrink .navbar-brand:focus,#mainNav.navbar-shrink .navbar-nav > li > a.active,#mainNav.navbar-shrink .navbar-nav > li > a:hover,
+#mainNav.navbar-shrink .navbar-nav > li > a:focus:hover,#mainNav .navbar-nav > li > a:hover,#mainNav .navbar-nav > li > a:focus:hover,
+#mainNav .navbar-nav > li > a:hover,#mainNav .navbar-nav > li > a:focus:hover,#mainNav .navbar-nav > li > a:hover,#mainNav .navbar-nav > li > a:focus:hover,
+.single-feature .single-feature-icon i,.schedule-single-info span i,.single-event-show-item .content-entry a.readmore-link i,.faq-tab .nav-tabs > li > a.active,
+.footer-menu ul li a:hover,.copyright p a:hover,#mainNav .navbar-nav > li > a.active {
+    color: #e11515;
+}
+.topcontrol,.section-title span,.btn-home,.owl-theme.home-slider .owl-dots div.active span,.owl-theme.home-slider .owl-nav div:hover,
+.home-register,.schedule-tab .nav-tabs .nav-link.active,.schedule-single:hover .schedule-btn,.schedule-btn:hover,
+.schedule-btn:focus,.do-schedule-btn a,.single-testimonial:hover .testimonial-box,.owl-theme.testimonial-slider .owl-dots div.active span,
+.single-event-show .event-term-list,.single-event-show-item .content-entry a.readmore-link i,.single-event-show-item:hover .content-entry a.readmore-link i:hover,
+.owl-theme.event-slider .owl-dots div.active span,.btn.regisbtn:hover,.btn.regisbtn:focus,
+.btn-contact-bg:hover,.btn-contact-bg:focus,.input_bar:after,.input_bar:before,.single-con-address:hover .single-con-address-icon i,
+.success-box,.footer-social ul li a i:hover {
+    background: #e11515;
+}
+.owl-theme.home-slider .owl-dots div.active,.owl-theme.home-slider .owl-nav div:hover,.schedule-tab .nav-tabs .nav-link.active,.schedule-tab .nav-link:hover,
+.schedule-tab .nav-link:focus,.owl-theme.testimonial-slider .owl-dots div.active,.owl-theme.event-slider .owl-dots div.active,
+.single-price:hover,.registration-wrapper .form-control,.faq-tab .nav-tabs .nav-item.show .nav-link,.faq-tab .nav-tabs .nav-link.active,#map,
+.contact .form-control,.footer-social ul li a i:hover,.btn-order {
+    border-color: #e11515;
+}
+.schedule-tab .nav-tabs .nav-link.active:after {
+   border-top: 15px solid #e11515;
+}
